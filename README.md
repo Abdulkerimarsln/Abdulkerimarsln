@@ -18,7 +18,7 @@ Projelerim hakkında daha fazla bilgiye ve kodlara GitHub'dan erişebilirsiniz. 
 
 [Proje 1](https://github.com/Abdulkerimarsln/RealEstate)
 
-[Proje 2](https://github.com/Abdulkerimarsln/DenemeCss)
+[Proje 2](https://github.com/Abdulkerimarsln/TraversalCoreProje)
 
 
 📫 Bana Ulaşın
